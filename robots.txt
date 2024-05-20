@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohoifwasufy.github.io/sitemap.xml
